@@ -1,2 +1,2 @@
 # rutorrent-deluge-ratio
-ruTorrent Plug to show Deluge Ratio
+ruTorrent plugin to show Deluge Ratio
