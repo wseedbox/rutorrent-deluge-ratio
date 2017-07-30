@@ -1,0 +1,6 @@
+plugin.description: This plugin adds the columns 'DlgRatio' and 'TotalRatio' to the torrents list.
+plugin.author: Woodsdog
+plugin.runlevel: 11.4
+plugin.version: 3.8
+rtorrent.version: 0.8.6
+plugin.help: https://github.com/wseedbox/rutorrent-deluge-ratio
